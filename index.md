@@ -1,5 +1,5 @@
 
-This Privacy Policy applies to the “Intake Downloader” mobile app. We respect the privacy of all visitors, users and others who access our application. By using our application, You indicate that you read, understand, and agree to the collection, storage, use and disclosure of your personal information as described in this Privacy Policy.
+This Privacy Policy applies to the “Intake Downloader” mobile app. We respect the privacy of all visitors, users and others who access our application. By using our application, You indicate that you read, understand, and agree to the collection, storage, use and disclosure of your personal information as described in this Privacy Policy. test test
 
 Please take a moment to review our privacy policy and let us know if you have any questions.
 
