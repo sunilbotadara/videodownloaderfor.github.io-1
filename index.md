@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## Intake Downloader Privacy Policy
 
-You can use the [editor on GitHub](https://github.com/videodownloaderfor/videodownloaderfor.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This Privacy Policy applies to the “Intake Downloader” mobile app. We respect the privacy of all visitors, users and others who access our application. By using our application, You indicate that you read, understand, and agree to the collection, storage, use and disclosure of your personal information as described in this Privacy Policy.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Please take a moment to review our privacy policy and let us know if you have any questions.
 
-### Markdown
+### PERSONAL INFORMATION
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+When you download or upgrade our product, we do not collect, store or use any personal information.
 
-```markdown
-Syntax highlighted code block
+### NON PERSONAL INFORMATION
 
-# Header 1
-## Header 2
-### Header 3
+We may collect and use non-personal information in the following circumstances. In order to have a better understanding of user behavior, to solve problems in products and services, to improve our products, services and advertising, we may collect non-personal information such as data of install and uninstall, usage Frequency, Country, Equipment and Channel.
 
-- Bulleted
-- List
+### MODIFICATIONS TO APPLICATION
 
-1. Numbered
-2. List
+Intake Downloader has the right to modify, suspend or discontinue, temporarily or
+permanently, the Application or any service to which it connects, with or without notice and without liability to you.
 
-**Bold** and _Italic_ and `Code` text
+### LINKS TO THIRD PARTY APPS OR WEBSITES
 
-[Link](url) and ![Image](src)
-```
+Intake Downloader may contain links to third party apps from our business partners, advertisers and social media sites. If you follow a link to any of these apps or websites, please note that these apps or websites have their own privacy policies and we do not accept any responsibility or liability for their policies. Please check individual policies before sending any information to those apps or websites.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### CHANGES TO PRIVACY POLICY
 
-### Jekyll Themes
+We reserve the right to handle, modify, or otherwise change this Privacy Policy at any time and at our discretion, and if you do not agree to any amendment or modification of this Privacy Policy, You can stop using applications, services and websites.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/videodownloaderfor/videodownloaderfor.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### CONTACT US
 
-### Support or Contact
+If you have any questions or concerns about our privacy policy or data processing, please contact us: videodownloaderfor@gmail.com
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
